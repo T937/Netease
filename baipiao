@@ -1,0 +1,9 @@
+shadowsocks = 42.157.196.185:56731, method=rc4-md5, password=v6a7Sx, tag=🇭🇰 东莞BGP-香港
+shadowsocks = 42.157.196.184:56731, method=rc4-md5, password=v6a7Sx, tag=🇭🇰 东莞BGP-香港 2
+shadowsocks = activity.huawei.daanyht.com:12033, method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=7df0df9abf59.microsoft.com, obfs-uri=/, tag=🇭🇰 香港+12丨1x+HK
+shadowsocks = activity.huawei.daanyht.com:12029, method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=7df0df9abf59.microsoft.com, obfs-uri=/, tag=🇭🇰 香港+08丨1x+HK
+shadowsocks = activity.huawei.daanyht.com:13105, method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=7df0df9abf59.microsoft.com, obfs-uri=/, tag=🇭🇰 香港家宽+02丨1x+HK
+shadowsocks = activity.huawei.daanyht.com:12722, method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=7df0df9abf59.microsoft.com, obfs-uri=/, tag=🇭🇰 香港+14丨1x+HK
+shadowsocks = activity.huawei.daanyht.com:12031, method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=7df0df9abf59.microsoft.com, obfs-uri=/, tag=🇭🇰 香港+10丨1x+HK
+shadowsocks = activity.huawei.daanyht.com:12030, method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=7df0df9abf59.microsoft.com, obfs-uri=/, tag=🇭🇰 香港+09丨1x+HK
+shadowsocks = activity.huawei.daanyht.com:12032, method=aes-128-gcm, password=haMLMXirByn6rGVh, obfs=http, obfs-host=7df0df9abf59.microsoft.com, obfs-uri=/, tag=🇭🇰 香港+11丨1x+HK
