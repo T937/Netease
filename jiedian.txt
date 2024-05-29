@@ -1,2 +1,2 @@
 ss://YWVzLTI1Ni1nY206TE1HcVZibGZ0TkAxMjAuMjMyLjI0MC4xNzQ6NDYzNDU#ss+us
-vless://YXV0bzphODg3NTZhMy1mMTA1LTQwOTMtYmNkMy1hMjliYmY3ZmFjYjJAMDUyOC5xYXJpem9uYS5zYnM6NDQz?remarks=JP&obfsParam=0528.qarizona.sbs&path=/a88756a3-f105-4093-bcd3-a29bbf7facb2&obfs=websocket&tls=1
+vless://YXV0bzpjZGFlMmNkYy1iNWEwLTQzOWEtODFkYi02YjBlN2U2NmM4NmNAMDUyOC5xYXJpem9uYS5zYnM6NDQz?remarks=JP&obfsParam=0528.qarizona.sbs&path=/cdae2cdc-b5a0-439a-81db-6b0e7e66c86c&obfs=websocket&tls=1
